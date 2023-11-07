@@ -1,0 +1,14 @@
+C:\Users\maiko\Serializacao\bin\Debug\net8.0\Serializacao.exe
+C:\Users\maiko\Serializacao\bin\Debug\net8.0\Serializacao.deps.json
+C:\Users\maiko\Serializacao\bin\Debug\net8.0\Serializacao.runtimeconfig.json
+C:\Users\maiko\Serializacao\bin\Debug\net8.0\Serializacao.dll
+C:\Users\maiko\Serializacao\bin\Debug\net8.0\Serializacao.pdb
+C:\Users\maiko\Serializacao\obj\Debug\net8.0\Serializacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiko\Serializacao\obj\Debug\net8.0\Serializacao.AssemblyInfoInputs.cache
+C:\Users\maiko\Serializacao\obj\Debug\net8.0\Serializacao.AssemblyInfo.cs
+C:\Users\maiko\Serializacao\obj\Debug\net8.0\Serializacao.csproj.CoreCompileInputs.cache
+C:\Users\maiko\Serializacao\obj\Debug\net8.0\Serializacao.dll
+C:\Users\maiko\Serializacao\obj\Debug\net8.0\refint\Serializacao.dll
+C:\Users\maiko\Serializacao\obj\Debug\net8.0\Serializacao.pdb
+C:\Users\maiko\Serializacao\obj\Debug\net8.0\Serializacao.genruntimeconfig.cache
+C:\Users\maiko\Serializacao\obj\Debug\net8.0\ref\Serializacao.dll
