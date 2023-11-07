@@ -12,3 +12,4 @@ C:\Users\maiko\Serializacao\obj\Debug\net8.0\refint\Serializacao.dll
 C:\Users\maiko\Serializacao\obj\Debug\net8.0\Serializacao.pdb
 C:\Users\maiko\Serializacao\obj\Debug\net8.0\Serializacao.genruntimeconfig.cache
 C:\Users\maiko\Serializacao\obj\Debug\net8.0\ref\Serializacao.dll
+C:\Users\maiko\Serializacao\obj\Debug\net8.0\Serializacao.sourcelink.json
